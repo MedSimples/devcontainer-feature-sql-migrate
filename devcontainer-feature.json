@@ -1,0 +1,7 @@
+{
+  "id": "ghcr.io/sql-migrate",
+  "version": "1.0.0",
+  "name": "sql-migrate",
+  "documentationURL": "https://github.com/devcontainer-feature-sql-migrate",
+  "options": {}
+}
